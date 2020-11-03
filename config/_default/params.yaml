@@ -1,0 +1,36 @@
+params:
+  dateform: 'Jan 2, 2006'
+  dateformShort: Jan 2
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04'
+  description: Nice theme for homepages and blogs
+  keywords: ''
+  images:
+    - ''
+  homeSubtitle: Hello Friend NG
+  disableReadOtherPosts: false
+  enableSharingButtons: true
+  customCSS: []
+  customJS: []
+  justifyContent: false
+  defaultTheme: dark
+  themeColor: '#252627'
+  favicon:
+    color:
+      mask: '#252627'
+      msapplication: '#252627'
+      theme: '#252627'
+  logo:
+    logoText: $ cd /home/
+    logoHomeLink: /
+  social:
+    - name: twitter
+      url: 'https://twitter.com/'
+    - name: email
+      url: 'mailto:nobody@example.com'
+    - name: github
+      url: 'https://github.com/'
+    - name: linkedin
+      url: 'https://www.linkedin.com/'
+    - name: stackoverflow
+      url: 'https://www.stackoverflow.com/'
